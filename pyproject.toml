@@ -1,0 +1,17 @@
+[project]
+name = "submissionform-fe"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cryptography>=46.0.3",
+    "flask>=3.1.2",
+    "matplotlib>=3.10.8",
+    "mysql-connector-python>=9.5.0",
+    "numpy>=2.4.0",
+    "pandas>=2.3.3",
+    "pymysql>=1.1.2",
+    "seaborn>=0.13.2",
+    "sqlalchemy>=2.0.45",
+]
